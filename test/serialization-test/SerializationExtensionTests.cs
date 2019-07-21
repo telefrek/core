@@ -8,6 +8,9 @@ namespace Telefrek.Serialization
     [TestClass]
     public class SerializationExtensionTests
     {
+        /// <summary>
+        /// Test the functionality for null/default detection
+        /// </summary>
         [TestMethod]
         public void TestDefaultOrNull()
         {
