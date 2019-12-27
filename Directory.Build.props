@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <!-- Framework -->
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <!-- Common Packaging Information -->
+    <Authors>nathannorthcutt</Authors>
+    <Company>Telefrek</Company>
+    <RepositoryUrl>https://github.com/telefrek/core</RepositoryUrl>
+  </PropertyGroup>
+</Project>
