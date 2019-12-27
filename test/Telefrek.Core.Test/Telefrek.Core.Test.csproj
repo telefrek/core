@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Telefrek.Core\Telefrek.Core.csproj" />
+  </ItemGroup>
+
+</Project>
