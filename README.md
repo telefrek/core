@@ -3,6 +3,7 @@ This is a set of libraries that are used across multiple projects we maintain.
 
 ### Status
 
+[![Build Status](https://travis-ci.org/telefrek/core.svg?branch=master)](https://travis-ci.org/telefrek/core)
 ![GitHub All Releases](https://img.shields.io/github/downloads/telefrek/core/total?style=plastic)
 ![GitHub issues](https://img.shields.io/github/issues/telefrek/core?style=plastic)
 
