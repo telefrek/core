@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Xunit;
 
-namespace Telefrek.Core.Test
+namespace Telefrek.Core.Tests
 {
     public class SequentialGuidTests
     {

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Telefrek.Core.Cassandra</PackageId>
+    <Version>0.0.1</Version>
+    <PackageDescription>This package contains the Cassandra integrations used by Telefrek</PackageDescription>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CassandraCSharpDriver" Version="3.12.0" />
+    <ProjectReference Include="..\Telefrek.Core\Telefrek.Core.csproj" />
+  </ItemGroup>
+</Project>

@@ -3,12 +3,19 @@
 
   <PropertyGroup>
     <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
   </PropertyGroup>
 
   <ItemGroup>
+    <!-- Testing Framework -->
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
-    <PackageReference Include="xunit" Version="2.4.0" />
-    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1" />
     <PackageReference Include="coverlet.collector" Version="1.0.1" />
+
+    <!-- Integration Test Utilities -->
+    <PackageReference Include="Docker.DotNet" Version="3.125.2" />
+    <ProjectReference Include="..\..\src\Telefrek.Core\Telefrek.Core.csproj" />
+    <ProjectReference Include="..\..\src\Telefrek.Core.Testing\Telefrek.Core.Testing.csproj" />
   </ItemGroup>
 </Project>

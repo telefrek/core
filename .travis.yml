@@ -1,0 +1,10 @@
+language: csharp
+dotnet: 3.1
+mono: none
+# sudo: required
+
+services:
+  - docker
+
+script:
+  - dotnet test -p:BuildInParallel=true
