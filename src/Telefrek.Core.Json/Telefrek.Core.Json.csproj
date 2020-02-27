@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <PackageId>Telefrek.Core.Json</PackageId>
-    <Version>0.0.1</Version>
     <PackageDescription>This package contains Json management tools used by Telefrek.</PackageDescription>
   </PropertyGroup>
 

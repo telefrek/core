@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <PackageId>Telefrek.Core.Messaging</PackageId>
-    <Version>0.0.1</Version>
     <PackageDescription>This package contains the async messaging patterns used by Telefrek</PackageDescription>
   </PropertyGroup>
   

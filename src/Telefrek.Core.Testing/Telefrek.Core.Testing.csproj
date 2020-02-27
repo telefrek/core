@@ -1,7 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <IsTestProject>false</IsTestProject>
+    <PackageId>Telefrek.Core.Testing</PackageId>
+    <PackageDescription>This package contains the testing utilities and patterns used by Telefrek</PackageDescription>
   </PropertyGroup>
   
   <ItemGroup>

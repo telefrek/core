@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <PackageId>Telefrek.Core</PackageId>
-    <Version>0.0.1</Version>
     <PackageDescription>This package contains core utilities and patterns used by Telefrek.</PackageDescription>
   </PropertyGroup>
 

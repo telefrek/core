@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <PackageId>Telefrek.Core.Cassandra</PackageId>
-    <Version>0.0.1</Version>
     <PackageDescription>This package contains the Cassandra integrations used by Telefrek</PackageDescription>
   </PropertyGroup>
 
